@@ -1,4 +1,5 @@
 DAA Course Project
+
 A comprehensive full-stack application implementing advanced algorithms for personal finance optimization, specifically designed for Indian financial scenarios.
 
 ![Financial Algorithms](https://img.shields.io/badge/Algorithm-0--1%20Knapsack-blue)
@@ -51,5 +52,6 @@ A comprehensive full-stack application implementing advanced algorithms for pers
 - **Greedy Algorithms** - Fractional Knapsack optimization
 - **Graph Theory** - Shortest path for goal planning
 - **Divide and Conquer** - Expense pattern analysis
+
 
 
